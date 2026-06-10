@@ -175,7 +175,7 @@ After the second `Kaustra`, do another skillchian aligning with the current day,
 
 ### RNGesus
 
-Now I'm not going to sugar coat this.  If you've made it this far, sadly, this is the moemnt that decides whether your fight will be successful, or if you're just doing a fancy RP farm.  You **need** to get a **Wild Card** of `5` or `6` here.  
+Now I'm not going to sugar coat this.  If you've made it this far, sadly, this is the moment that decides whether your fight will be successful, or if you're just doing a fancy RP farm.  You **need** to get a **Wild Card** of `5` or `6` here.  
 
 If the **Wild Card** is successful, wait for the current `Kaustra` to get closer to wearing off.  You don't want to immediately start a new `Kaustra` skillchain before giving the current one time to cook.  `Kaustra` lasts for exactly **150 seconds** (2½ minutes).  Time the 3rd `Kaustra` accordingly.
 
