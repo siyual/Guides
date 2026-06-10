@@ -60,12 +60,12 @@ Keep pushing through until you can't anymore, die in a safe spot, reraise and wa
 4. **Accession** `Regen V`
 5. **Accession** `Voidstorm II`
 6. **Accession** `Adloquium`
-7. `Animus Minuo` >> **SCH**
-8. `Animus Augeo` >> **BLU**
+7. `Animus Minuo` → **SCH**
+8. `Animus Augeo` → **BLU**
 9. `Reraise III`
 10. *Dark Arts*
 11. **Addendum: Black**
-12. `Klimaform` >> **SCH**
+12. `Klimaform` → **SCH**
 
 **GEO** : `Geo-INT`, `Indi-Acumen`, entrust `Indi-Focus`\
 **COR** : `Wizard's Roll`, `Monk's Roll`\
