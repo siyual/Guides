@@ -6,7 +6,7 @@ So the strategy for V+25 is *completely* different.  The winning composition tha
 
 The composition below is vertically stacked to match each player:
 ```
-KI-1: WHM BRD WAR SMN DRK DRG 
+KI-1: WHM BRD WAR DRK SMN DRG 
 KI-2: SCH RUN BLU COR RDM GEO
 ```
 
@@ -45,7 +45,7 @@ The **SMN** needs to `Astral Flow` and time Alexander's `Perfect Defense` *right
 
 Keep pushing through until you can't anymore, die in a safe spot, reraise and wait out the timer.
 
-[Recording of the KI-1 (WHM Perspective)](https://youtu.be/yaIEFV5DE-g)
+[Recording of Bumba v25 KI #1 (WHM Perspective)](https://youtu.be/yaIEFV5DE-g)
 
 **Important** There is a bug with Sheol - Gaol where using BST's Ooze to lower the boss's HP during the fight will cause issues with the second KI.  If you got it to 69% while using a BST's Ooze ability, when you go back in, it would be at 72% HP.  This *can* be a serious issue if you only got it to 74%, where going back in it will be at 77%, and you will need to do another 3% damage to get the adds to come out.  Workable if you are expecting this issue, but a run ender if you don't do enough damage.
 
@@ -164,8 +164,9 @@ After the first `Kaustra`, swap to `Light Arts` and give out:
 3. **Perpetuance** `Animus Augeo` → **BLU**
 4. **Perpetuance** `Animus Minuo` → **SCH**
 5. **Perpetuance**, **Accession** `Voidstorm II`
-6. `Dark Arts` → **Addendum: Black**
-7. **Manifestation** `Klimaform`
+6. **Perpetuance**, **Accession** `Adloquium`
+7. `Dark Arts` → **Addendum: Black**
+8. **Manifestation** `Klimaform`
 
 **COR** needs to **Random Deal** during this time.
 
@@ -179,7 +180,7 @@ Now I'm not going to sugar coat this.  If you've made it this far, sadly, this i
 
 If the **Wild Card** is successful, wait for the current `Kaustra` to get closer to wearing off.  You don't want to immediately start a new `Kaustra` skillchain before giving the current one time to cook.  `Kaustra` lasts for exactly **150 seconds** (2½ minutes).  Time the 3rd `Kaustra` accordingly.
 
-When you are ready, pop **Tabula Rasa** and do it rinse-repeat.
+When you are ready, pop **Tabula Rasa** and rinse-repeat.
 
 ### Issues
 
@@ -189,6 +190,6 @@ There are certainly some things to be aware of here:
 3. The absolute worst aura to get is **Magic Accuracy Down**.  Not only is this a massive Magic Accuracy debuff, but it *also* prevents `Klimaform` from being applied.  This is a double-whammy for **SCH** as that's a big Magic Accuracy hit **and** it prevents the 25% damage boost from `Klimaform`.
 4. **BLU** absolutely must be on their game wiping TP and preventing Bumba from otherwise getting TP.  They also need to be on top of closing the `Darkness` skillchain with **Chain Affinity**.  Failure here is an end to the run.
 
-This is a recording of a failed run, but used the correct mechanics described.  The only reason this run was a failure was because we got **two** Magic Accuracy Down auras.  But een despite that, we got it to 5%.	
+This is a recording of a failed run, but used the correct mechanics described.  The only reason this run was a failure was because we got **two** Magic Accuracy Down auras.  But even despite that, we got it to 5%.	
 
-[KI-2 (SCH perspective)](https://youtu.be/P1UdqGQ62_w)
+[Recording of Bumba v25 KI #2 (SCH perspective)](https://youtu.be/P1UdqGQ62_w)
