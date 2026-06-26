@@ -34,7 +34,7 @@ After the songs are up, the **BRD** needs to run up and pull **Xevioso** down to
 ## Fight & Mechanics
 Fan out in a circle around **Xevioso**.  Everyone is a tank here, and it's critical that people aren't stacked in conal ranges.  **Xevioso** has some nasty debuffs that you will need to have a macro at the ready to use **Panacea** or **Remedy** to remove them immediately.  The **WHM** is going to be extremely busy keeping everyone alive, and will not have time to dedicate to casting `Erase` or whatver `-na` spell you require.
 
-The **GEO** needs to use `Geo-Fury` and either `Indi-DEX` or `Indi-Precision`.
+The **GEO** needs to use `Geo-Fury` and `Indi-Barrier`.
 
 He is weak to piercing attacks, so the **WAR** should use polearm.  
 
